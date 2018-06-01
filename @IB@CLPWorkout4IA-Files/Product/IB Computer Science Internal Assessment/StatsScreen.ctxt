@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=StatsScreen
+comment0.text=\n\ The\ StatsScreen\ provides\ a\ view\ for\ the\ user\ to\ select\ an\ exercise\n\ they\ want\ to\ view\ and\ the\ y-axis\ option\ for\ the\ graph.\n\ \n\ @author\ Charles\ Pan\n\ @version\ March\ 2018\n
+comment1.params=
+comment1.target=StatsScreen()
+comment2.params=list
+comment2.target=void\ addActionListeners(java.awt.event.ActionListener)
+numComments=3

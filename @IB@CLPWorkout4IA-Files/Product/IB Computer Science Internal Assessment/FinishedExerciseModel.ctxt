@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=FinishedExerciseModel
+comment0.text=\n\ The\ FinishedExerciseModel\ class\ is\ the\ model\ component\ of\ the\n\ MVC\ framework,\ and\ can\ be\ manipulated\ by\ a\ controller\ (see\ \n\ GraphController\ or\ RecordController).\n\n\ @author\ Charles\ Pan\n\ @version\ March\ 2018\n
+comment1.params=
+comment1.target=FinishedExerciseModel()
+comment2.params=elem
+comment2.target=void\ addFinishedExercise(FinishedExercise)
+comment3.params=
+comment3.target=void\ deleteLastExercise()
+comment4.params=
+comment4.target=void\ loadData()
+comment5.params=username\ input
+comment5.target=void\ loadExercise(java.lang.String,\ Exercise)
+comment6.params=
+comment6.target=void\ saveData()
+comment7.params=fields\ index
+comment7.target=int[]\ getIntArray(java.lang.String[],\ int)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

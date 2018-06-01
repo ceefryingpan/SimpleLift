@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=WorkoutDisplay
+comment0.text=\n\ WorkoutDisplay\ displays\ the\ generated\ workout\ based\ on\ user's\n\ preferences.\n\n\ @author\ Charles\ Pan\n\ @version\ March\ 2018\n
+comment1.params=muscles\ gym\ difficulty\ username
+comment1.target=WorkoutDisplay(java.util.ArrayList,\ boolean,\ java.lang.String,\ java.lang.String)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=3

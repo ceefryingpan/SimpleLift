@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=FinishedWorkout
+comment0.text=\n\ The\ FinishedWorkout\ class\ is\ modeled\ after\ the\ Workout\ class,\n\ but\ includes\ FinishedExercises\ instead\ of\ just\ exercises.\n\ \n\ @author\ Charles\ Pan\n\ @version\ March\ 2018\n
+comment1.params=exercises
+comment1.target=FinishedWorkout(java.util.ArrayList)
+comment10.params=
+comment10.target=java.lang.String\ stringFinishedExercises()
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=exercises
+comment2.target=void\ setFinishedExercises(java.util.ArrayList)
+comment3.params=exercises
+comment3.target=void\ setDifficulty(java.util.ArrayList)
+comment4.params=exercises
+comment4.target=void\ setHome(java.util.ArrayList)
+comment5.params=number
+comment5.target=void\ setNumber(int)
+comment6.params=
+comment6.target=int\ getNumber()
+comment7.params=
+comment7.target=java.util.ArrayList\ getFinishedExercises()
+comment8.params=
+comment8.target=java.lang.String\ getDifficulty()
+comment9.params=
+comment9.target=boolean\ getHome()
+numComments=12

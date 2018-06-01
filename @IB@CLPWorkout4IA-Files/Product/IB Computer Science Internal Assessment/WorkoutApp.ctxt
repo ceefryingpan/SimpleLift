@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=WorkoutApp
+comment0.text=\n\ WorkoutApp\ allows\ the\ user\ to\ start\ the\ program.\n\n\ @author\ Charles\ Pan\n\ @version\ March\ 2018\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

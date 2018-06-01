@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=GraphController
+comment0.text=\n\ GraphController\ is\ the\ Controller\ part\ of\ the\ MVC\ framework,\ \n\ in\ charge\ of\ communicating\ between\ FinishedExerciseModel,\ \n\ GraphView,\ and\ StatsScreen.\n\n\ @author\ Charles\ Pan\n\ @version\ March\ 2018\n
+comment1.params=v\ s\ username
+comment1.target=GraphController(GraphView,\ StatsScreen,\ java.lang.String)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=3

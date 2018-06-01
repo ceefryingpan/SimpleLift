@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=GraphView
+comment0.text=\n\ GraphView\ provides\ a\ view\ for\ the\ graph\ in\ GraphComponent.\n\n\ @author\ Charles\ Pan\n\ @version\ March\ 2018\n
+comment1.params=
+comment1.target=GraphView()
+comment2.params=mod\ option
+comment2.target=GraphView(FinishedExerciseModel,\ java.lang.String)
+comment3.params=mod
+comment3.target=void\ updateExercise(FinishedExerciseModel)
+comment4.params=option
+comment4.target=void\ updateOption(java.lang.String)
+numComments=5

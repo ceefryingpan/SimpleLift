@@ -1,0 +1,27 @@
+﻿Name,Equipment,Muscles,Difficulty
+Squat,FALSE,Calves/Quadriceps/Hamstrings/Gluteus/Hip/Lower Back/Abdominals,Beginner
+Leg Press,TRUE,Calves/Quadriceps/Hamstrings/Gluteus,Intermediate
+Lunge,FALSE,Quadriceps/Hamstrings/Gluteus/Hip,Beginner
+Deadlift,TRUE,Calves/Quadriceps/Hamstrings/Gluteus/Hip/Lower Back/Trapezius/Abdominals/Forearms,Difficult
+Leg Extension,TRUE,Quadriceps,Intermediate
+Leg Curl,TRUE,Calves/Hamstrings,Intermediate
+Standing Calf Raise,TRUE,Calves,Beginner
+Seated Calf Raise,TRUE,Calves,Beginner
+Bench Press,TRUE,Pectorals/Deltoids/Triceps,Intermediate
+Chest Fly,TRUE,Pectorals/Deltoids,Intermediate
+Pushup,FALSE,Abdominals/Pectorals/Deltoids/Triceps,Beginner
+Pulldown,TRUE,Lats/Pectorals/Deltoids/Biceps/Forearms,Intermediate
+Pullup,FALSE,Lats/Trapezius/Pectorals/Deltoids/Biceps/Forearms,Beginner
+Bent-Over Row,TRUE,Lats/Trapezius/Biceps/Forearms,Intermediate
+Upright Row,TRUE,Trapezius/Deltoids/Biceps/Forearms,Intermediate
+Shoulder Press,TRUE,Trapezius/Deltoids/Triceps,Difficult
+Shoulder Fly,TRUE,Trapezius/Deltoids/Forearms,Difficult
+Lateral Raise,TRUE,Trapezius/Deltoids,Intermediate
+Shoulder Shrug,TRUE,Trapezius/Deltoids/Forearms,Beginner
+Pushdown,TRUE,Triceps,Beginner
+Triceps Extension,TRUE,Triceps/Forearms,Difficult
+Biceps Curl,TRUE,Biceps/Forearms,Beginner
+Crunch,FALSE,Abdominals,Beginner
+Russian Twist,FALSE,Abdominals,Difficult
+Leg Raise,FALSE,Hip/Abdominals,Intermediate
+Back Extension,TRUE,Hamstrings/Gluteus/Lower Back,Beginner

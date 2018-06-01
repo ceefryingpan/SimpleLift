@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=RecordWorkout
+comment0.text=\n\ RecordWorkout\ provides\ a\ view\ for\ users\ to\ record\ their\ workouts.\n\ \n\ @author\ Charles\ Pan\n\ @version\ March\ 2018\n
+comment1.params=
+comment1.target=RecordWorkout()
+comment2.params=list
+comment2.target=void\ addActionListeners(java.awt.event.ActionListener)
+numComments=3

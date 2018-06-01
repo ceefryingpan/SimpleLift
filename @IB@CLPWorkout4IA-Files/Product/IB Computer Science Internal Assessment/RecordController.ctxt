@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=RecordController
+comment0.text=\n\ RecordController\ is\ the\ controller\ component\ in\ the\ MVC\ framework,\n\ manipulating\ the\ RecordWorkout\ view.\n\n\ @author\ Charles\ Pan\n\ @version\ March\ 2018\n
+comment1.params=m\ v\ u
+comment1.target=RecordController(FinishedExerciseModel,\ RecordWorkout,\ java.lang.String)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=exercise\ sets\ repstrings\ weightstrings\ timestamp
+comment3.target=FinishedExercise\ getInput(Exercise,\ int,\ java.lang.String[],\ java.lang.String[],\ java.lang.String)
+comment4.params=o\ obj
+comment4.target=void\ update(java.util.Observable,\ java.lang.Object)
+numComments=5

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=GeneratorFirstScreen
+comment0.text=\n\ GeneratorFirstScreen\ displays\ a\ view\ for\ the\ user\ to\ select\ which\n\ muscles\ they\ want\ to\ target\ in\ their\ generated\ workout.\n\ \n\ @author\ Charles\ Pan\n\ @version\ March\ 2018\n
+comment1.params=username
+comment1.target=GeneratorFirstScreen(java.lang.String)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=3

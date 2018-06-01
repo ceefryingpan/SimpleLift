@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=GeneratorSecondScreen
+comment0.text=\n\ GeneratorSecondScreen\ provides\ a\ view\ for\ the\ user\ to\ indicate\n\ whether\ they\ have\ access\ to\ a\ gym\ and\ their\ level\n\ \n\ @author\ Charles\ Pan\n\ @version\ March\ 2018\n
+comment1.params=muscles\ username
+comment1.target=GeneratorSecondScreen(java.util.ArrayList,\ java.lang.String)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=3

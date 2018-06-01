@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=SecondScreen
+comment0.text=\n\ The\ second\ screen\ displays\ a\ view\ for\ the\ user\ to\ select\ an\ option\n\ of\ what\ they\ want\ to\ do.\n\ \n\ @author\ Charles\ Pan\n\ @version\ March\ 2018\n
+comment1.params=username
+comment1.target=SecondScreen(java.lang.String)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=3

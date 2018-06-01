@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Generator
+comment0.text=\n\ WorkoutGenerator\ is\ a\ class\ that\ provides\ methods\ for\ generating\n\ a\ set\ of\ exercises\ or\ a\ workout\ based\ on\ criteria.\n\n\ @author\ Charles\ Pan\n\ @version\ March\ 2018\n
+comment1.params=
+comment1.target=java.util.ArrayList\ generateExercises()
+comment2.params=
+comment2.target=java.util.ArrayList\ generateExerciseStrings()
+comment3.params=set
+comment3.target=java.lang.String[]\ getExerciseNames(java.util.ArrayList)
+comment4.params=exercises\ muscles\ home\ difficulty
+comment4.target=Workout\ generateWorkout(java.util.ArrayList,\ java.util.ArrayList,\ boolean,\ java.lang.String)
+numComments=5

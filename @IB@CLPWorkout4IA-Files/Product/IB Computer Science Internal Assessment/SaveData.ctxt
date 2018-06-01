@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=SaveData
+comment0.text=\n\ SaveData\ provides\ methods\ that\ allows\ data\ to\ be\ written\ to\ a\n\ .csv\ file,\ in\ order\ to\ store\ a\ user's\ data.\n\n\ @author\ Charles\ Pan\n\ @version\ March\ 2018\n
+comment1.params=set\ path
+comment1.target=void\ writeLines(java.util.ArrayList,\ java.lang.String)
+comment2.params=ex\ path
+comment2.target=void\ writeNewExercise(FinishedExercise,\ java.lang.String)
+comment3.params=ex
+comment3.target=java.lang.String\ lineFinishedExercise(FinishedExercise)
+comment4.params=array
+comment4.target=java.lang.String\ intToString(int[])
+comment5.params=set
+comment5.target=java.lang.String\ stringArraytoString(java.lang.String[])
+numComments=6

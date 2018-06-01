@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=TextFileUtil
+comment0.text=\n\ TextFileUtil\ provides\ functions\ that\ make\ it\ easy\ to\ \n\ read\ the\ contents\ of\ plain\ text\ files.\ \ It\ cannot\ be\n\ used\ to\ read\ complex\ files\ like\ Excel,\ Word,\ etc.\n\ \n\ Original\ version\:\ October\ 25,\ 2016\n\ \n\ @author\ Andrew\ Alford\ \n\ @version\ May\ 16,\ 2017\n
+comment1.params=
+comment1.target=TextFileUtil()
+comment2.params=path
+comment2.target=java.lang.String\ read(java.lang.String)
+comment2.text=\n\ Reads\ the\ contents\ of\ the\ plain\ text\ file,\ returning\n\ it\ as\ a\ single\ String\ object.\n\ \n\ @param\ path\ The\ file\ you\ want\ to\ read\n\ @return\ The\ contents\ of\ the\ file\ as\ one\ (possibly\ very\ long\!)\ string\n
+comment3.params=path
+comment3.target=java.lang.String[]\ readLines(java.lang.String)
+comment3.text=\n\ Reads\ the\ contents\ of\ the\ plain\ text\ file,\ returning\n\ it\ as\ an\ array\ of\ String\ objects.\ \ Note\ that\ blank\ lines\n\ in\ the\ file\ count\ as\ lines\!\ \ (Which\ may\ not\ have\ occurred\n\ to\ you\ intuitively\!)\n\ \n\ @param\ path\ The\ file\ you\ want\ to\ read\n\ @return\ An\ array\ of\ String\ objects,\ one\ for\ every\ line\ in\ the\ file.\n
+comment4.params=path\ text
+comment4.target=boolean\ write(java.lang.String,\ java.lang.String)
+comment5.params=path\ lines
+comment5.target=boolean\ writeLines(java.lang.String,\ java.lang.String[])
+comment6.params=path\ text
+comment6.target=boolean\ writeNewLine(java.lang.String,\ java.lang.String)
+comment7.params=resource
+comment7.target=void\ close(java.io.FileWriter)
+comment8.params=resource
+comment8.target=void\ close(java.io.PrintWriter)
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10
